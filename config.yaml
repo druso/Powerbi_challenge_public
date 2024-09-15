@@ -1,0 +1,6 @@
+assistant_avatar: 🤦
+user_avatar: 👶
+download_keyword: mySecret
+stream: true # if true it will stream the response from llm token by token
+page_title: PowerBI Challenge Coach
+page_subtitle: Il tuo aiutante personale per la PowerBI Challenge!

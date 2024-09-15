@@ -1,0 +1,7 @@
+openai_punish_model: gpt-3.5-turbo # gpt-3.5-turbo | gpt-4-turbo
+openai_active_model: gpt-4o # gpt-3.5-turbo | gpt-4-turbo
+openai_selector_model: gpt-3.5-turbo # gpt-3.5-turbo | gpt-4-turbo
+llama8_model: llama3-8b-8192 #
+llama70_model: llama3-70b-8192 #
+mixtral8x7b_model: mixtral-8x7b-32768 #
+gemma7_model: gemma-7b-it #
